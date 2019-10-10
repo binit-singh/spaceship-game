@@ -2,10 +2,10 @@
 It's a Spaceship Game made in py-game
 
 ### Controls
-Up Arrow - Move Up
-Down Arrow - Move Down
-Left Arrow - Move left
-Right Arrow - Move Right
+1. Up Arrow - Move Up
+2. Down Arrow - Move Down
+3. Left Arrow - Move left
+4. Right Arrow - Move Right
 
 ### Goal
 Fly your spaceship and avoid any collision with missile trying to kill you.
